@@ -1,2 +1,2 @@
 # 3-website
-landing oage with the help of flexboard
+landing page with the help of flexboard
