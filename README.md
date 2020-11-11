@@ -1,2 +1,2 @@
 # 3-website
-use bootstrap and grid function
+landing oage with the help of flexboard
